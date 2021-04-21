@@ -1,0 +1,189 @@
+[{"id":"1","appName":"WhatsApp Messenger","publisherName":"WhatsApp LLC"}
+,{"id":"2","appName":"Facebook","publisherName":"Facebook"}
+,{"id":"3","appName":"Google LLC","publisherName":"Youtube"}
+,{"id":"4","appName":"Candy Crush Saga","publisherName":"King"},
+{"id":"5","appName":"Clash of Clans","publisherName":"Supercell"},
+{"id":"6","appName":"Call of Duty®: Mobile - Day of Reckoning","publisherName":"Activision Publishing, Inc"},
+{"id":"7","appName":"8 Ball Pool","publisherName":"Miniclip"},
+{"id":"8","appName":"Subway Surfers","publisherName":"SYBO Games"},
+{"id":"9","appName":"Clash Royale","publisherName":"Supercell"},
+{"id":"10","appName":"Asphalt 9: Legends - Epic Car Action Racing Game","publisherName":"Gameloft SE"}]
+
+<i class="fa fa-map-marker" aria-hidden="true"></i>
+?
+
+{
+"1": [
+{
+"date": "15-01-2021",
+"clicks": 693231,
+"revenue": 4624,
+"adRequest": 4529895,
+"adResponse": 2061524,
+"impressions": 80000
+},
+{
+"date": "16-01-2021",
+"clicks": 5173758,
+"revenue": 2679,
+"adRequest": 8316829,
+"adResponse": 7225168,
+"impressions": 80000
+},
+{
+"date": "17-01-2021",
+"clicks": 878459,
+"revenue": 1802,
+"adRequest": 1349392,
+"adResponse": 975736,
+"impressions": 80000
+},
+{
+"date": "18-01-2021",
+"clicks": 1627632,
+"revenue": 3608,
+"adRequest": 5760110,
+"adResponse": 3138006,
+"impressions": 80000
+},
+{
+"date": "19-01-2021",
+"clicks": 1217214,
+"revenue": 1296,
+"adRequest": 9906066,
+"adResponse": 4358454,
+"impressions": 80000
+},
+{
+"date": "20-01-2021",
+"clicks": 145870,
+"revenue": 1665,
+"adRequest": 4199708,
+"adResponse": 3248406,
+"impressions": 80000
+},
+{
+"date": "21-01-2021",
+"clicks": 1029645,
+"revenue": 977,
+"adRequest": 8364844,
+"adResponse": 2138445,
+"impressions": 80000
+}
+],
+"2": [
+{
+"date": "15-01-2021",
+"clicks": 950537,
+"revenue": 2332,
+"adRequest": 2463402,
+"adResponse": 1166731,
+"impressions": 80000
+},
+{
+"date": "16-01-2021",
+"clicks": 2893769,
+"revenue": 1657,
+"adRequest": 6529143,
+"adResponse": 6333394,
+"impressions": 80000
+},
+{
+"date": "17-01-2021",
+"clicks": 510660,
+"revenue": 4225,
+"adRequest": 6240049,
+"adResponse": 3883223,
+"impressions": 80000
+},
+{
+"date": "18-01-2021",
+"clicks": 842950,
+"revenue": 1004,
+"adRequest": 6948039,
+"adResponse": 6257780,
+"impressions": 80000
+},
+{
+"date": "19-01-2021",
+"clicks": 705402,
+"revenue": 1595,
+"adRequest": 6470585,
+"adResponse": 1359493,
+"impressions": 80000
+},
+{
+"date": "20-01-2021",
+"clicks": 2872464,
+"revenue": 1019,
+"adRequest": 6550456,
+"adResponse": 4410548,
+"impressions": 80000
+},
+{
+"date": "21-01-2021",
+"clicks": 657930,
+"revenue": 5788,
+"adRequest": 9027471,
+"adResponse": 3909972,
+"impressions": 80000
+}
+],
+"3": [
+{
+"date": "15-01-2021",
+"clicks": 27689,
+"revenue": 2854,
+"adRequest": 3500059,
+"adResponse": 1747279,
+"impressions": 80000
+},
+{
+"date": "16-01-2021",
+"clicks": 2581287,
+"revenue": 5271,
+"adRequest": 4726909,
+"adResponse": 3786621,
+"impressions": 80000
+},
+{
+"date": "17-01-2021",
+"clicks": 592703,
+"revenue": 2144,
+"adRequest": 7622723,
+"adResponse": 2222946,
+"impressions": 80000
+},
+{
+"date": "18-01-2021",
+"clicks": 767686,
+"revenue": 1719,
+"adRequest": 7529113,
+"adResponse": 2180096,
+"impressions": 80000
+},
+{
+"date": "19-01-2021",
+"clicks": 882307,
+"revenue": 778,
+"adRequest": 8133637,
+"adResponse": 2087769,
+"impressions": 80000
+},
+{
+"date": "20-01-2021",
+"clicks": 278469,
+"revenue": 2261,
+"adRequest": 2013612,
+"adResponse": 1741790,
+"impressions": 80000
+},
+{
+"date": "21-01-2021",
+"clicks": 1912252,
+"revenue": 5626,
+"adRequest": 9609835,
+"adResponse": 5278965,
+"impressions": 80000
+}
+],
